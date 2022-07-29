@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cipher_mido.mk
+    $(LOCAL_DIR)/radon_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    cipher_mido-user \
-    cipher_mido-userdebug \
-    cipher_mido-eng
+    radon_mido-user \
+    radon_mido-userdebug \
+    radon_mido-eng
